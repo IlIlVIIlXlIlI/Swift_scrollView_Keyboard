@@ -117,6 +117,12 @@
                     <connections>
                         <outlet property="contentView" destination="Vhb-gI-9Qm" id="K8p-Ap-QS6"/>
                         <outlet property="myScrollView" destination="fZu-jT-kOA" id="s14-MD-Ax2"/>
+                        <outletCollection property="myTextFields" destination="EVT-1A-Dhn" collectionClass="NSMutableArray" id="eza-Ia-HLc"/>
+                        <outletCollection property="myTextFields" destination="xNL-de-WDX" collectionClass="NSMutableArray" id="tTr-RC-g4F"/>
+                        <outletCollection property="myTextFields" destination="jDE-Sb-ZgJ" collectionClass="NSMutableArray" id="8SX-EF-wtA"/>
+                        <outletCollection property="myTextFields" destination="LgW-Mr-fLE" collectionClass="NSMutableArray" id="f5B-lH-PrX"/>
+                        <outletCollection property="myTextFields" destination="T9X-lP-m7G" collectionClass="NSMutableArray" id="Vgk-pG-aIk"/>
+                        <outletCollection property="myTextFields" destination="bu6-D9-tTc" collectionClass="NSMutableArray" id="elW-Ec-c0B"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
