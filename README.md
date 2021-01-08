@@ -1,0 +1,7 @@
+# Swift_scrollView_Keyboard
+
+スクロールしてテキストフィールドを選択すると、
+キーボードが出てきて、テキストフィールドが隠れるのを防ぐプログラム
+
+
+UIKeyboardFrameEndUserInfoKeyの部分の書き方が昔と変わっていて、めんどくさくなったのでやめた。
